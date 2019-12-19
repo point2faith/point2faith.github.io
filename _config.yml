@@ -1,0 +1,36 @@
+# site settings
+title: Faith Baptist Church
+subtitle: Commercial Point
+email: point2faith@gmail.com
+description: We're a Bible-believing and Bible-preaching Baptist church.
+baseurl: # the subpath of your site, e.g. /blog
+url: https://www.point2faith.org
+author:
+street_address: 10701 Welch Rd
+city: Commercial Point
+state: OH
+zip_code: 43116
+country: United States of America
+phone: (614) 877-3306
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 4
+
+# social settings
+500px_url:
+facebook_url: https://www.facebook.com/point2faith/
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url: http://www.instagram.com/point2faith
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url: http://www.twitter.com/point2faith
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
