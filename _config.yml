@@ -6,7 +6,7 @@ description: We're a Bible-believing and Bible-preaching Baptist church.
 baseurl: # the subpath of your site, e.g. /blog
 url: https://www.point2faith.org
 author:
-street_address: 10701 Welch Rd
+street_address: PO Box 160
 city: Commercial Point
 state: OH
 zip_code: 43116
@@ -23,11 +23,11 @@ facebook_url: https://www.facebook.com/point2faith/
 github_url:
 gitlab_url:
 googleplus_url:
-instagram_url: http://www.instagram.com/point2faith
+instagram_url: 
 linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: http://www.twitter.com/point2faith
+twitter_url: 
 
 # build settings
 markdown: kramdown
