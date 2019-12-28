@@ -27,7 +27,9 @@ instagram_url:
 linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url:
+directory_url: http://directory.instantchurchdirectory.com/73854110/churchdirectory.pdf
+calendar_url: https://www.mychurchevents.com/calendar/73815949
 
 # build settings
 markdown: kramdown
