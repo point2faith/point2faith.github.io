@@ -7,5 +7,8 @@ image: null
 author: null
 show_tile: false
 ---
+> **2021-2022 Awana**  
+> Starts Sunday September 12 6PM  
+> **How to register:** Fill out the [registration form](https://docs.google.com/document/d/1vXHAyBvUdJnBMsCBIuvnghKfkGEFe9vt/edit?usp=sharing&ouid=110841099034842413592&rtpof=true&sd=true) and email us at point2faith@gmail.com or bring on your first night.  Please call us at 614-877-3306 with any questions. 
 
 In addition to Sunday School for all ages and Worship Service, we have our Awana and Youth Groups for children age 2 through 12th grade from 6:00pm to 7:30pm.  On Wednesday evening, at 7pm, we will be holding prayer meetings.  Please feel free to join us for any or all of the options as appropriate!
