@@ -21,7 +21,7 @@ nav-menu: true
 		<p>We are located in the village of Commercial Point, and are less than 25 minutes from Columbus, Grove City, Circleville, and Mt. Sterling. We have Sunday School classes for every age and nursery for children age 2 and under is available at every service. Our worship service is a blend of traditional and contemporary hymns, and our worship is accented by our choir.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<p>In addition to Sunday School for all ages at 9:30am and Worship Service at 10:45am on Sundays, we have our Awana and Youth Groups for children age 2 through 12th grade from 6:00pm to 7:30pm.  On Wednesday evening, at 7pm, we will be holding prayer meetings.  Please feel free to join us for any or all of the options as appropriate!  </p>
+		<p>In addition to Sunday School for all ages at 9:45am and Worship Service at 10:45am on Sundays, we have our Awana and Youth Groups for children age 2 through 12th grade from 6:00pm to 7:30pm.  On Wednesday evening, at 7pm, we will be holding prayer meetings.  Please feel free to join us for any or all of the options as appropriate!  </p>
 	</div>
 </div>
 
