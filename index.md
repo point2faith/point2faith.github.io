@@ -9,7 +9,7 @@ show_tile: false
 ---
 
 > **Faith Baptist VBS with Child Evangelism Fellowship**  
-> Monday-Friday June 26-30 6-7:30PM  
+> Monday-Friday June 17-21 6-7:30PM  
 > Songs! Games! Crafts! Fun!  
 > Open to kids ages 5-12. __(3-12 if your kids already attend AWANA here)__  
 > **How to register:** Call us at 614-877-3306 or email us at point2faith@gmail.com.
